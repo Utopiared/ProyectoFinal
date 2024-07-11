@@ -53,9 +53,31 @@ se copia el link del nuevo repositorio: git remote add origin https://github.com
 
  y se usa el comando git push -u origin main para guardar los cambios completos.
 
-## Sesión 5: Github y archivo README
+## Sesión 5: Github y archivo README 🐱
+
+Se creó el repositorio en GITHUB e iniciamos el proyecto dentro del README.
+
 
 ## Sesión 6: Codificación
+
+se realizaron prácticas de codificación
+```kotlin
+fun main() {
+    val pesoEnKg = 60.0
+    val alturaEnMetros = 1.75
+
+    val imc = pesoEnKg / (alturaEnMetros * alturaEnMetros)
+
+    if (imc < 70) {
+        print("estás bien")
+    }
+
+    else {
+        print("estás gordo")
+    }
+
+}
+```
 ## Sesión 7: Manejo de errores
 ## Sesión 8: Activity
 
