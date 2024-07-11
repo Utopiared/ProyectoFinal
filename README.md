@@ -6,7 +6,7 @@ _**Proyecto android**_
 
 *Autora: Aura Nicte-Ha Pech Reyes.*
 
-## Sesión 1: Fundamentos android
+## Sesión 1: Fundamentos android 👩‍💻
 
 ANDROID, es un sistema operativo inicialmente pensando para teléfonos móviles y está basado en Linux, su antecedente fue diseñada por google, está basado en Kernel de Linux es Open Source es el núcleo del sistema operativo, se ejecuta en dispositivos móviles.
 
