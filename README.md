@@ -60,7 +60,8 @@ Se creó el repositorio en GITHUB e iniciamos el proyecto dentro del README.
 
 ## Sesión 6: Codificación
 
-se realizaron prácticas de codificación
+Se realizaron prácticas de codificación ejemplo:
+
 ```kotlin
 fun main() {
     val pesoEnKg = 60.0
@@ -78,7 +79,11 @@ fun main() {
 
 }
 ```
+
 ## Sesión 7: Manejo de errores
+
+
+
 ## Sesión 8: Activity
 
 ##
