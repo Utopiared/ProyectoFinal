@@ -57,6 +57,8 @@ se copia el link del nuevo repositorio: git remote add origin https://github.com
 
 Se creó el repositorio en GITHUB e iniciamos el proyecto dentro del README.
 
+[El proyecto] (ProyectoFinal/app)
+
 
 ## Sesión 6: Codificación
 
