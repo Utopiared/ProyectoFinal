@@ -82,8 +82,10 @@ fun main() {
 
 ## Sesión 7: Manejo de errores
 
+Cuando se manifiesta un problema en nuestra codificación en nuestro proyecto, tenemos que interpretar los errores que se nos presentan para poder darle la solución correcta y nuestro proyecto pueda correr de manera eficiente.
+
 
 
 ## Sesión 8: Activity
 
-##
+
