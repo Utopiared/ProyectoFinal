@@ -48,8 +48,10 @@ Es una serie de pasos ordenado.
 Usamos el control de versiones de GITHUB para almacenar y tener un control de versiones de nuestro proyecto.
 
 ![image](https://github.com/Utopiared/ProyectoFinal/assets/156848411/fee661c7-b869-46f8-8dde-e36f92f92e3f)
-git remote add origin https://github.com/Utopiared/nuevo4.git
-git push -u origin main
+
+se copia el link del nuevo repositorio: git remote add origin https://github.com/Utopiared/repositorionuevo.git
+
+ y se usa el comando git push -u origin main para guardar los cambios completos.
 
 ## Sesión 5: Github y archivo README
 
