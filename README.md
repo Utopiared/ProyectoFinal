@@ -45,15 +45,15 @@ Es una serie de pasos ordenado.
 ![desarrollo](https://github.com/Utopiared/ProyectoFinal/assets/156848411/e335757c-cc92-443e-8698-dadf9d03997e)
 
 ## Sesión 4: Control de versiones
-Usamos el control de versiones de GITHUB para almacenar y tener un control de versiones de nuestro proyecto.
+Usamos el control de versiones de GIT. 
+
+## Sesión 5: Github y archivo README 🐱
 
 ![image](https://github.com/Utopiared/ProyectoFinal/assets/156848411/fee661c7-b869-46f8-8dde-e36f92f92e3f)
 
 se copia el link del nuevo repositorio: git remote add origin https://github.com/Utopiared/repositorionuevo.git
 
  y se usa el comando git push -u origin main para guardar los cambios completos.
-
-## Sesión 5: Github y archivo README 🐱
 
 Se creó el repositorio en GITHUB e iniciamos el proyecto dentro del README.
 
@@ -89,5 +89,8 @@ Cuando se manifiesta un problema en nuestra codificación en nuestro proyecto, t
 
 
 ## Sesión 8: Activity
+
+* Realizamos activitys en el AndroidStudio.
+![image](https://github.com/user-attachments/assets/54cab085-190d-483f-ba54-9487e1412d3d)
 
 
